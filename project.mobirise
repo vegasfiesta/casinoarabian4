@@ -143,7 +143,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/thumb-1920-2000x1354-800x541.jpg",
                 "image": "@PROJECT_PATH@/assets/images/thumb-1920-2000x1354.jpg",
-                "caption": "ألعاب الطاولة، لعبة البوكر والروليت",
+                "caption": "ألعاب الطاولة، لعبة ا\u001bلبوكر والروليت",
                 "active": true
               },
               {
@@ -391,7 +391,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">casino arabian</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" target=\"_blank\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" target=\"_blank\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" target=\"_blank\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://get.vegasfiesta.com/get/d/4112189\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" target=\"_blank\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" target=\"_blank\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/1\" target=\"_blank\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://servedbytrackingdesk.com/54faa56f8a2940523628cdf8/click/2\" target=\"_blank\">DOWNLOAD</a></li>"
         },
         {
           "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F74769953",
